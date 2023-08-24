@@ -15,7 +15,7 @@
 .DS_Store
 
 # Ignore the generated node_module folder
-node_modules
+node_modules/
 
 # Ignore the Tailwindcss build outputs
 css/
