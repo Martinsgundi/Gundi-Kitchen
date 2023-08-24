@@ -17,8 +17,5 @@
 # Ignore the generated node_module folder
 node_modules/
 
-# Ignore the Tailwindcss build outputs
-css/
-
 # Ignore generated Tailwindcss default configurations
 tailwind-default-config/
